@@ -332,7 +332,7 @@ html {
   padding: 24px 32px;
   border-radius: 16px;
   min-width: 263px;
-  max-width: 348px;
+  width: 100%;
   background: linear-gradient(
     80.23deg,
     #e8652d -4.25%,
